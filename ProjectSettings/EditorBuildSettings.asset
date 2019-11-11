@@ -9,24 +9,66 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/1-TelaInicial.unity
+    path: Assets/Scenes/Main.unity
     guid: f751dde48567f6340a9105471eba2698
-  - enabled: 1
-    path: Assets/Scenes/level01.unity
-    guid: 45990cd945cb5094cb98eca742cb0a0c
-  - enabled: 1
-    path: Assets/Scenes/level02.unity
-    guid: c497271a65c563341aff90ff20a49ab4
-  - enabled: 1
-    path: Assets/Scenes/level03.unity
-    guid: 008420cdd3b659b419f29b9d85e6cb6c
-  - enabled: 1
-    path: "Assets/Scenes/anima\xE7\xE3o.unity"
-    guid: 207929fcbf956b04894ff955c7c9ada9
   - enabled: 0
     path: 
-    guid: 9f8cb38cbead7524f9b81cfd8ed3790d
+    guid: 00000000000000000000000000000000
   - enabled: 0
     path: 
-    guid: a1ca8d2dd1e21314eb360eb982e768e8
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/About_Ray.unity
+    guid: 53b40dfa32c43a44d9447d892bdecb66
+  - enabled: 1
+    path: Assets/Scenes/Atypical.unity
+    guid: c1450bd4221ba5648b299f1ce684b71a
+  - enabled: 1
+    path: Assets/Scenes/Duplim.unity
+    guid: bfb6cf3dee327c74b903e151b7e37a43
+  - enabled: 1
+    path: Assets/Scenes/Feministas.unity
+    guid: ec46cfffae750d54d842f7edb5db1158
+  - enabled: 1
+    path: Assets/Scenes/Por_Um_Fio.unity
+    guid: 28381754b59e9ad47aabd8ade6876f26
+  - enabled: 1
+    path: Assets/Scenes/Sex_Education.unity
+    guid: 28b305692523c134fa3320353a9f0dc2
+  - enabled: 1
+    path: Assets/Scenes/Sierra_Burguer.unity
+    guid: 2cc2e972a142a174a9047a9b874f08be
+  - enabled: 1
+    path: Assets/Scenes/Special.unity
+    guid: 9ef550c5f31748949bfcb82efa250a82
+  - enabled: 1
+    path: Assets/Scenes/The boy.unity
+    guid: bf6880bb64132004d9133540c12bcb41
+  - enabled: 1
+    path: Assets/Scenes/The_Help.unity
+    guid: d85b239bbe22be14da7ad5d73969bb75
+  - enabled: 1
+    path: Assets/Scenes/Valente.unity
+    guid: 197f57eadc60a874aab2464eedf91a16
+  - enabled: 1
+    path: Assets/Scenes/Voltar_Sozinho.unity
+    guid: 44fa959c4e769264baafd1cda28e3828
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/N_02.unity
+    guid: eb07c40a2b3c17b43b1f2f3d0a473e8a
+  - enabled: 1
+    path: Assets/Scenes/N_01.unity
+    guid: b5f4b68999c0e8845aa8514051c70b38
   m_configObjects: {}
