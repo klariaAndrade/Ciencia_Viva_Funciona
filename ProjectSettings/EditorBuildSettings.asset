@@ -21,40 +21,61 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/About_Ray.unity
+    path: Assets/Scenes/HP/001.unity
+    guid: f047f4379dcb0d04aa349e4f2014bcdf
+  - enabled: 1
+    path: Assets/Scenes/HP/002.unity
+    guid: adb1eafeb913f5d43b6e0953a729063d
+  - enabled: 1
+    path: Assets/Scenes/Projeto/Projeto_Tela.unity
+    guid: d4c0711f002851f47b8481c4343ff8d8
+  - enabled: 1
+    path: Assets/Scenes/Projeto/Projeto_Tela2.unity
+    guid: 877c098b224e59340bd8987f9c159f3b
+  - enabled: 1
+    path: Assets/Scenes/Projeto/Projeto_Tela3.unity
+    guid: 9f765a4320d12254a81f60c01a4969e2
+  - enabled: 1
+    path: Assets/Scenes/Projeto/Projeto_Tela4.unity
+    guid: e1d25aae782906d4c80ff001fa058658
+  - enabled: 1
+    path: Assets/Scenes/Filmes_Scenes/About_Ray.unity
     guid: 53b40dfa32c43a44d9447d892bdecb66
   - enabled: 1
-    path: Assets/Scenes/Atypical.unity
+    path: Assets/Scenes/Filmes_Scenes/Atypical.unity
     guid: c1450bd4221ba5648b299f1ce684b71a
   - enabled: 1
-    path: Assets/Scenes/Duplim.unity
+    path: Assets/Scenes/Filmes_Scenes/Duplim.unity
     guid: bfb6cf3dee327c74b903e151b7e37a43
   - enabled: 1
-    path: Assets/Scenes/Feministas.unity
+    path: Assets/Scenes/Netflix_Telas/N_02.unity
+    guid: dd1dccb05575f2d40ba8fa917821b6aa
+  - enabled: 1
+    path: Assets/Scenes/Filmes_Scenes/Feministas.unity
     guid: ec46cfffae750d54d842f7edb5db1158
   - enabled: 1
-    path: Assets/Scenes/Por_Um_Fio.unity
+    path: Assets/Scenes/Filmes_Scenes/Por_Um_Fio.unity
     guid: 28381754b59e9ad47aabd8ade6876f26
   - enabled: 1
-    path: Assets/Scenes/Sex_Education.unity
+    path: Assets/Scenes/Filmes_Scenes/Sex_Education.unity
     guid: 28b305692523c134fa3320353a9f0dc2
   - enabled: 1
-    path: Assets/Scenes/Sierra_Burguer.unity
+    path: Assets/Scenes/Filmes_Scenes/Sierra_Burguer.unity
     guid: 2cc2e972a142a174a9047a9b874f08be
   - enabled: 1
-    path: Assets/Scenes/Special.unity
+    path: Assets/Scenes/Filmes_Scenes/Special.unity
     guid: 9ef550c5f31748949bfcb82efa250a82
   - enabled: 1
-    path: Assets/Scenes/The boy.unity
+    path: Assets/Scenes/Filmes_Scenes/The boy.unity
     guid: bf6880bb64132004d9133540c12bcb41
   - enabled: 1
-    path: Assets/Scenes/The_Help.unity
+    path: Assets/Scenes/Filmes_Scenes/The_Help.unity
     guid: d85b239bbe22be14da7ad5d73969bb75
   - enabled: 1
-    path: Assets/Scenes/Valente.unity
+    path: Assets/Scenes/Filmes_Scenes/Valente.unity
     guid: 197f57eadc60a874aab2464eedf91a16
   - enabled: 1
-    path: Assets/Scenes/Voltar_Sozinho.unity
+    path: Assets/Scenes/Filmes_Scenes/Voltar_Sozinho.unity
     guid: 44fa959c4e769264baafd1cda28e3828
   - enabled: 0
     path: 
@@ -65,10 +86,13 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/N_02.unity
-    guid: eb07c40a2b3c17b43b1f2f3d0a473e8a
+    path: Assets/Scenes/Netflix_Telas/N_03.unity
+    guid: 4964a7c72a00a834786c990586caf482
   - enabled: 1
-    path: Assets/Scenes/N_01.unity
+    path: Assets/Scenes/Netflix_Telas/N_01.unity
     guid: b5f4b68999c0e8845aa8514051c70b38
   m_configObjects: {}
